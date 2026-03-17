@@ -2,6 +2,12 @@
 
 ## Next
 
+## 0.9.0
+
+### Added
+
+- Support for `LangGraph < 2.0.0`, previously only `<1.1.0`
+
 ## 0.8.0
 
 ### Added
